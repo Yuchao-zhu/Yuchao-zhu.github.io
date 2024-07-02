@@ -1,5 +1,5 @@
 
-# Yuchao-zhuDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Yuchao Zhu
 
 Visit **[yuchao-zhu.github.io](https://yuchao-zhu.github.io)** 🚀
 
