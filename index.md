@@ -1,7 +1,7 @@
 ---
 ---
 
-# Our research group is dedicated to exploring the frontiers of biocompatible chemistry and genetic codon expansion technology. Our primary focus lies in harnessing these two powerful tools to engineer and enhance enzyme compatibility, with a steadfast commitment to drug development. By manipulating the fundamental principles of biocompatibility and leveraging advanced codon expansion techniques, we aim to revolutionize the field of enzyme engineering and pave the way for novel therapeutic interventions.
+# Our research group is dedicated to exploring the frontiers of biocompatible chemistry and genetic codon expansion technology. Our primary focus lies in harnessing these two powerful tools to engineer and enhance enzyme compatibility, with a steadfast commitment to drug development.
 
 
 
