@@ -1,0 +1,11 @@
+document.addEventListener("DOMContentLoaded", function() {  
+    var elements = document.querySelectorAll("h1, p"); // 选择你想要修改的元素  
+ 
+    elements.forEach(function(el) {  
+        var text = el.textContent;  
+        var capitalizedText = text.replace(/(^|[.?!]\s*)([a-z])/g, function(match, p1, p2) {  
+            return p1 + p2.toUpperCase();  
+        });  
+        el.textContent = capitalizedText;  
+    });  
+});
