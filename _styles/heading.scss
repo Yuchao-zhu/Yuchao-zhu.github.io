@@ -17,11 +17,8 @@ h6 {
 h1 {
   font-size: 1.6rem;
   font-weight: var(--regular);
-  text-transform: lowercase;
+  text-transform: capitalize;
   text-align: justify;
-  p::first-letter {  
-  text-transform: capitalize;  
-}
 }
 
 h2 {
