@@ -19,10 +19,9 @@ h1 {
   font-weight: var(--regular);
   text-transform: lowercase;
   text-align: justify;
-}
-
-p::first-letter {  
+  p::first-letter {  
   text-transform: capitalize;  
+}
 }
 
 h2 {
