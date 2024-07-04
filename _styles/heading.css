@@ -17,8 +17,7 @@ h1 {
   text-transform: lowercase;
   text-align: justify;
 }
-
-p::first-letter {
+h1 p::first-letter {
   text-transform: capitalize;
 }
 
