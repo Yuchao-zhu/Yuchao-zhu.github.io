@@ -14,7 +14,7 @@ h6 {
 h1 {
   font-size: 1.6rem;
   font-weight: var(--regular);
-  text-transform: capitalize;
+  text-transform: lowercase;
   text-align: justify;
 }
 
