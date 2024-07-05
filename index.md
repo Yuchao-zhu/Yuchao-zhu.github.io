@@ -1,9 +1,9 @@
 ---
 ---
 
-# Our research group is dedicated to exploring the frontiers of biocompatible chemistry and genetic codon expansion technology. Our primary focus lies in harnessing these two powerful tools to engineer and enhance enzyme compatibility, with a steadfast commitment to drug development.
+# Lab Website Template
 
-
+Our research group is dedicated to exploring the frontiers of biocompatible chemistry and genetic codon expansion technology. Our primary focus lies in harnessing these two powerful tools to engineer and enhance enzyme compatibility, with a steadfast commitment to drug development.
 
 {% include section.html %}
 
