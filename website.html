@@ -1,13 +1,24 @@
 <!DOCTYPE html>  
 <html lang="en">  
 <head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>我的网页</title>  
+<meta charset="UTF-8">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<title>首字母大写示例</title>  
 </head>  
 <body>  
-    <h1>欢迎来到我的网页</h1>  
-    <p>这是一个简单的HTML页面。</p>  
-    <a href="https://www.example.com">访问Example网站</a>  
+<p id="text">这是第一句。这是第二句。</p>  
+  
+<script>  
+  // 获取p元素  
+  var p = document.getElementById("text");  
+  // 获取p元素的文本内容  
+  var text = p.textContent;  
+  // 使用正则表达式将每句话的首字母大写  
+  var newText = text.replace(/\.\s*([a-z])/g, function(match, p1) {  
+    return '.' + p1.toUpperCase();  
+  });  
+  // 更新p元素的文本内容  
+  p.textContent = newText;  
+</script>  
 </body>  
 </html>
