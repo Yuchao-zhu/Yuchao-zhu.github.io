@@ -1,0 +1,36 @@
+name: Install Ruby
+
+on:
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  install-ruby:
+    runs-on: ubuntu-latest
+    concurrency: 
+      group: install-ruby-3.1.4  # 防止并行执行
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Ruby Build
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y git build-essential libssl-dev zlib1g-dev
+        git clone https://github.com/rbenv/ruby-build.git
+        sudo ruby-build/install.sh
+
+    - name: Install Ruby
+      run: |
+        RUBY_VERSION="3.1.4"
+        RUBY_PATH="${{ runner.tool_cache }}/Ruby/$RUBY_VERSION/x64"
+        sudo mkdir -p $RUBY_PATH
+        sudo ruby-build $RUBY_VERSION $RUBY_PATH
+        sudo touch $RUBY_PATH.complete
+
+    - name: Cache Ruby
+      uses: actions/cache@v3
+      with:
+        path: ${{ runner.tool_cache }}/Ruby
+        key: ruby-${{ runner.os }}-3.1.4
