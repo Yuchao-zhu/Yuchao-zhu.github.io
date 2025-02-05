@@ -1,0 +1,11 @@
+# 创建目标目录（需sudo权限）
+sudo mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64
+
+# 使用ruby-build安装指定版本Ruby到目标路径
+sudo ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+
+# 安装完成后创建标记文件（.complete）
+sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
+
+# 修改目录权限（确保GitHub Runner用户可访问）
+sudo chown -R $USER:$USER /opt/hostedtoolcache/Ruby
