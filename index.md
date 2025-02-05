@@ -3,7 +3,7 @@
 
 # Lab Website Template
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
+The Greene Lab is a team of researchers at the University of Colorado School of Medicine dedicated to answering important questions in biology and medicine with computation. We focus on bringing together publicly available big data, developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
 Spend less time worrying about managing a website and citations, and more time running your lab.
 
 {%
