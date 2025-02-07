@@ -34,7 +34,7 @@ We use chemistry to answer important questions in biology and medicine. In all o
 
 {% capture text %}
 
- We focuses on advancing biocompatible chemistry, exploring directed evolution, and enhancing drug discovery to pioneer innovative solutions for human health.
+ We focuses on advancing biocompatible chemistry, directed evolution, and enhancing drug discovery to pioneer innovative solutions for human health.
 
 {%
   include button.html
@@ -51,7 +51,7 @@ We use chemistry to answer important questions in biology and medicine. In all o
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Frontiers of Biomedical Innovation"
+  title="Frontiers of Biotechnology"
   flip=true
   style="bare"
   text=text
