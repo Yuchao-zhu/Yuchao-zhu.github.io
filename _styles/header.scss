@@ -40,6 +40,7 @@ header a {
 
 .logo {
   height: $logo;
+  max-width: 100px;
 }
 
 .logo > * {
@@ -148,6 +149,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    max-width: 120px;
   }
 
   .title-text {
