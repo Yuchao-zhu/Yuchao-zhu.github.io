@@ -7,16 +7,10 @@ Our research group is dedicated to exploring the frontiers of biocompatible chem
 
 {% include section.html %}
 
-{% capture highlight_image %}
-
-{% 
-include figure.html 
-image="images/photo.jpg" 
-alt="Highlight Image" 
-style="full" 
-%}
-
-{% endcapture %}
+<!-- 插入图片 -->
+<div style="text-align: center;">
+  <img src="images/photo.fig" alt="Research Banner" width="100%" />
+</div>
 
 ## Highlights
 
