@@ -8,12 +8,14 @@ Our research group is dedicated to exploring the frontiers of biocompatible chem
 {% include section.html %}
 
 {% capture highlight_image %}
-{%
-  include image.html
-  image="images/photo.jpg"  <!-- 替换为你想要插入的图片路径 -->
-  alt="Highlight Image"
-  style="full"
+
+{% 
+include figure.html 
+image="images/photo.jpg" 
+alt="Highlight Image" 
+style="full" 
 %}
+
 {% endcapture %}
 
 ## Highlights
