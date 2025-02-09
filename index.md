@@ -9,7 +9,7 @@ Our research group is dedicated to exploring the frontiers of biocompatible chem
 
 <!-- 插入图片 -->
 <div style="text-align: center;">
-  <img src="images/photo.fig" alt="Research Banner" width="100%" />
+  <img src="images/photo.jpg" alt="Research Banner" width="100%" />
 </div>
 
 ## Highlights
