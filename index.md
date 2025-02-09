@@ -4,9 +4,11 @@
 # Innovating for a Healthier World
 
 Our research group is dedicated to exploring the frontiers of biocompatible chemistry, genetic code expansion, and directed evolution, with the aim of enhancing drug discovery capacity and developing more effective therapies for human diseases by leveraging the insights and tools derived from our research. We will collaborate with fellow researchers and clinicians in the field, sharing our findings and reagents to collectively advance the frontiers of medicine. 
+
 {% include section.html %}
+
 <!-- 插入图片 -->
-<div style="text-align: center; margin-top: 0;">
+<div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
   <img src="images/photo.jpg" alt="Research Banner" width="100%" />
 </div>
 
