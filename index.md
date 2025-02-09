@@ -26,7 +26,7 @@ We use chemistry to answer important questions in biology and medicine. In all o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Chemistry + Biology.png"
   link="research"
   title="Chemistry + Biology → insight"
   text=text
@@ -49,7 +49,7 @@ We use chemistry to answer important questions in biology and medicine. In all o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Biotechnology.png"
   link="projects"
   title="Frontiers of Biotechnology"
   flip=true
@@ -74,7 +74,7 @@ We are a team of enthusiastic researchers that want to push the frontier of chem
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="The next generation of medical scientists"
   text=text
