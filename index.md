@@ -6,6 +6,16 @@
 Our research group is dedicated to exploring the frontiers of biocompatible chemistry, genetic code expansion, and directed evolution, with the aim of enhancing drug discovery capacity and developing more effective therapies for human diseases by leveraging the insights and tools derived from our research.
 
 {% include section.html %}
+{% capture highlight_image %}
+{%
+  include image.html
+  image="images/photo.jpg"  <!-- 替换为你想要插入的图片路径 -->
+  alt="Highlight Image"
+  style="full"
+%}
+{% endcapture %}
+
+{{ highlight_image | strip }}
 
 ## Highlights
 
