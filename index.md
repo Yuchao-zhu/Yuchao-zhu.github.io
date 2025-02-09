@@ -5,8 +5,6 @@
 
 Our research group is dedicated to exploring the frontiers of biocompatible chemistry, genetic code expansion, and directed evolution, with the aim of enhancing drug discovery capacity and developing more effective therapies for human diseases by leveraging the insights and tools derived from our research. We will collaborate with fellow researchers and clinicians in the field, sharing our findings and reagents to collectively advance the frontiers of medicine. 
 
-{style="margin-bottom: 0;"}
-
 {% include section.html %}
 
 <!-- 插入图片 -->
