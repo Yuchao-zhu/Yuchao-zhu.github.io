@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research bridges the realms of chemistry and biology. By employing multidisciplinary techniques, including organic synthesis, bioorthogonal chemistry, directed evolution, and genetic code expansion, we developed a series of methodologies for constructing, modifying, and precisely regulating functional molecules at the small and macromolecular levels. These innovative approaches are beneficial for discovering new bioactive compounds and deepening our understanding of complex biochemical processes within living organisms, thereby holding significant value for both innovation and practical application in medicine and drug development.
 
 {% include section.html %}
 
