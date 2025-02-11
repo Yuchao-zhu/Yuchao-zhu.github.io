@@ -1,16 +1,13 @@
 - title: Biocompatible chemistry
   group: featured
   image: images/Biocompatible chemistry.png
-  description: Bioorthogonal chemistry has provided revolutionary chemical biology and biomedical research tools, including 
-  cutting-edge techniques in cell labeling, antibody modification, high-throughput sequencing, and proteomics. However, most 
-  bioorthogonal reactions are limited to two-component conjugation reactions and their diversity and application range must be 
-  expanded. 
-  This part of the research focuses on: a) Developing new bioorthogonal reactions. Based on the background of developing organic 
-  chemical reactions during the doctoral period, I plan to design and verify a series of new reactions from the perspective of reaction catalysts, 
+  description: Biocompatible chemistry has provided revolutionary chemical biology and biomedical research tools, including 
+  cutting-edge techniques in cell labeling, antibody modification, high-throughput sequencing, and proteomics. We plan to design and verify a series of new reactions from the perspective of reaction catalysts, 
   initiators, ring stain, new reaction groups, and selectivity, especially reactions with higher reaction rates, milder reaction conditions, and 
   better biocompatibility; b) Applying new reactions in peptide modification. We will apply the developed bioorthogonal reactions to peptides to 
   achieve skeleton and PTM derivatization and evaluate modified peptides' biological activity and function changes
-  repo: greenelab/lab-website-template
+  link: 
+  repo: 
   tags:
     - resource
 
