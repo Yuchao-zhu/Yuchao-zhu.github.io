@@ -5,17 +5,15 @@
   link: 
   repo: 
   tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Directed evolution
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Evolution.png
+  link: 
+  description: Directed evolution is a powerful technique that accelerates the natural evolutionary process in vitro or in vivo through iterative cycles of genetic diversification and screening or selection. We will tirelessly pursue the development of advanced directed evolution techniques, integrating the latest advancements in high-throughput screening, continuous evolution, and computational modeling. Our goal is to create a robust and efficient platform that can rapidly identify and optimize proteins with therapeutic potential.
+  repo: 
   tags:
-    - resource
 
 - title: Cool Tutorial
   subtitle: a subtitle
