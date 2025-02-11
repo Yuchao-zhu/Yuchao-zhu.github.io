@@ -64,7 +64,7 @@
   publisher: Angewandte Chemie International Edition
   date: '2020-09-01'
   link: https://doi.org/gnmn9s
-  image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
+  image: images/Diol.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41929-019-0398-0
@@ -155,7 +155,7 @@
   publisher: Nature Communications
   date: '2018-07-06'
   link: https://doi.org/g84n9h
-  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
+  image: images/Mono-ol.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/chem.201605476
