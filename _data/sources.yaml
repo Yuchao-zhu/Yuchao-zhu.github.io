@@ -20,7 +20,7 @@
   image: images/BCR.png
 
 - id: doi:10.1002/anie.202007187
-  image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
+  image: images/Diol.png
 
 - id: doi:10.1038/s41929-019-0398-0
   image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
@@ -35,7 +35,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
 
 - id: doi:10.1038/s41467-018-05014-w
-  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
+  image: images/Mono-ol.png
 
 - id: doi:10.1002/chem.201605476
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0fbcc664-fe4f-40c8-b370-ed8307dca570/chem201605476-toc-0001-m.jpg
