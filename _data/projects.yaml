@@ -1,11 +1,7 @@
 - title: Biocompatible chemistry
   group: featured
   image: images/Biocompatible chemistry.png
-  description: Biocompatible chemistry has provided revolutionary chemical biology and biomedical research tools, including 
-  cutting-edge techniques in cell labeling, antibody modification, high-throughput sequencing, and proteomics. We plan to design and verify a series of new reactions from the perspective of reaction catalysts, 
-  initiators, ring stain, new reaction groups, and selectivity, especially reactions with higher reaction rates, milder reaction conditions, and 
-  better biocompatibility; b) Applying new reactions in peptide modification. We will apply the developed bioorthogonal reactions to peptides to 
-  achieve skeleton and PTM derivatization and evaluate modified peptides' biological activity and function changes
+  description: Biocompatible chemistry has provided revolutionary chemical biology and biomedical research tools, including cutting-edge techniques in cell labeling, antibody modification, high-throughput sequencing, and proteomics. We plan to design and verify a series of new reactions from the perspective of reaction catalysts, initiators, ring stain, new reaction groups, and selectivity, especially reactions with higher reaction rates, milder reaction conditions, and better biocompatibility; b) Applying new reactions in peptide modification. We will apply the developed bioorthogonal reactions to peptides to achieve skeleton and PTM derivatization and evaluate modified peptides' biological activity and function changes
   link: 
   repo: 
   tags:
