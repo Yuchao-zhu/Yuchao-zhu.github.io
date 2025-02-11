@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a dynamic team of chemists and biologists united in our mission to advance drug development. Our collaborative spirit drives us to integrate diverse expertise, fostering innovation and breakthroughs. We are passionate, dedicated, and driven by a shared commitment to making a meaningful impact in medicine. Together, we strive to overcome challenges and push the boundaries of what is possible in the pursuit of better health for all.
 
 {% include section.html %}
 
