@@ -188,7 +188,7 @@
   publisher: ACS Catalysis
   date: '2016-08-31'
   link: https://doi.org/g84n9k
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0fbcc664-fe4f-40c8-b370-ed8307dca570/chem201605476-toc-0001-m.jpg
+  image: images/Oxime.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1021/acs.orglett.5b02155
@@ -207,7 +207,7 @@
   publisher: Organic Letters
   date: '2015-09-18'
   link: https://doi.org/g84n9m
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0fbcc664-fe4f-40c8-b370-ed8307dca570/chem201605476-toc-0001-m.jpg
+  image: images/Azidation.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1021/jacs.5b02347
