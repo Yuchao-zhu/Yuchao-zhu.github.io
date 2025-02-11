@@ -2,7 +2,7 @@
   type: paper
   description: Genetically encoded bioorthogonal tryptophan decaging enables ondemand activation of over 20000 proteins in living cells.
   date: 2024-2-28
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41557-024-01463-7/MediaObjects/41557_2024_1463_Figa_HTML.png?as=webp
+  image: images/Trp-CAGE.png
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
@@ -17,7 +17,7 @@
   repo: greenelab/meta-review
 
 - id: doi:10.1002/cjoc.202400876
-  image: https://onlinelibrary.wiley.com/cms/asset/c79c80bf-5194-4199-936e-607ac2dff07d/cjoc202400876-gra-0001.png
+  image: images/BCR.png
 
 - id: doi:10.1002/anie.202007187
   image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
