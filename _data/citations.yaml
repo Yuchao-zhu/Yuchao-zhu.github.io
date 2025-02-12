@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/cjoc.202400876
+  title: "Bioorthogonal Cleavage Chemistry: Harnessing the Bond\u2010Break Reactions\
+    \ for Biomolecule Manipulations in Living Systems"
+  authors:
+  - Yuchao Zhu
+  - Feng Lin
+  - Ziqi Liu
+  - Xin Wang
+  - Shubing Wang
+  - Xinyuan Fan
+  - Peng R. Chen
+  publisher: Chinese Journal of Chemistry
+  date: '2024-12-26'
+  link: https://doi.org/g84nrm
+  orcid: 0009-0001-1795-8667
+  plugin: sources.py
+  file: sources.yaml
+  image: images/BCR.png
 - id: doi:10.1038/s41557-024-01463-7
   title: Genetically encoded bioorthogonal tryptophan decaging in living cells
   authors:
@@ -33,23 +51,6 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1002/cjoc.202400876
-  title: "Bioorthogonal Cleavage Chemistry: Harnessing the Bond\u2010Break Reactions\
-    \ for Biomolecule Manipulations in Living Systems"
-  authors:
-  - Yuchao Zhu
-  - Feng Lin
-  - Ziqi Liu
-  - Xin Wang
-  - Shubing Wang
-  - Xinyuan Fan
-  - Peng R. Chen
-  publisher: Chinese Journal of Chemistry
-  date: '2024-12-26'
-  link: https://doi.org/g84nrm
-  image: images/BCR.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1002/anie.202007187
   title: "DMSO\u2010Enabled Selective Radical O\u2212H Activation of 1,3(4)\u2010\
     Diols"
@@ -64,9 +65,10 @@
   publisher: Angewandte Chemie International Edition
   date: '2020-09-01'
   link: https://doi.org/gnmn9s
-  image: images/Diol.png
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: images/Diol.png
 - id: doi:10.1038/s41929-019-0398-0
   title: DMSO-catalysed late-stage chlorination of (hetero)arenes
   authors:
@@ -83,9 +85,10 @@
   publisher: Nature Catalysis
   date: '2019-12-23'
   link: https://doi.org/gptxtx
-  image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/ccf3ca44-606c-4dc4-a3c4-fb34853ee6ec/anie202007187-toc-0001-m.jpg
 - id: doi:10.1002/anie.201903690
   title: Selective Aerobic Oxygenation of Tertiary Allylic Alcohols with Molecular
     Oxygen
@@ -99,9 +102,10 @@
   publisher: Angewandte Chemie International Edition
   date: '2019-06-28'
   link: https://doi.org/g84n9d
-  image: https://onlinelibrary.wiley.com/cms/asset/90d36921-66e6-42bd-b26c-39cc0264203e/anie201903690-toc-0001-m.jpg
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/90d36921-66e6-42bd-b26c-39cc0264203e/anie201903690-toc-0001-m.jpg
 - id: doi:10.1002/anie.201900947
   title: "Acetonitrile Activation: An Effective Two\u2010Carbon Unit for Cyclization"
   authors:
@@ -115,9 +119,10 @@
   publisher: Angewandte Chemie International Edition
   date: '2019-02-18'
   link: https://doi.org/gfvzbk
-  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
 - id: doi:10.1038/s41557-018-0156-y
   title: "From alkylarenes to anilines via site-directed carbon\u2013carbon amination"
   authors:
@@ -136,9 +141,10 @@
   publisher: Nature Chemistry
   date: '2018-10-29'
   link: https://doi.org/g84n9g
-  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
 - id: doi:10.1038/s41467-018-05014-w
   title: Silver-catalyzed remote Csp3-H functionalization of aliphatic alcohols
   authors:
@@ -155,9 +161,10 @@
   publisher: Nature Communications
   date: '2018-07-06'
   link: https://doi.org/g84n9h
-  image: images/Mono-ol.png
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: images/Mono-ol.png
 - id: doi:10.1002/chem.201605476
   title: "Fe\u2010Catalyzed Amination of (Hetero)Arenes with a Redox\u2010Active Aminating\
     \ Reagent under Mild Conditions"
@@ -174,9 +181,59 @@
   publisher: "Chemistry \u2013 A European Journal"
   date: '2016-12-16'
   link: https://doi.org/f3tgbq
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0fbcc664-fe4f-40c8-b370-ed8307dca570/chem201605476-toc-0001-m.jpg
+  orcid: 0009-0001-1795-8667
   plugin: sources.py
   file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0fbcc664-fe4f-40c8-b370-ed8307dca570/chem201605476-toc-0001-m.jpg
+- id: doi:10.1021/acscatal.6b02074
+  title: Silver-Catalyzed Radical Transformation of Aliphatic Carboxylic Acids to
+    Oxime Ethers
+  authors:
+  - Yuchao Zhu
+  - Xiaojin Wen
+  - Song Song
+  - Ning Jiao
+  publisher: ACS Catalysis
+  date: '2016-08-31'
+  link: https://doi.org/g84n9k
+  orcid: 0009-0001-1795-8667
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.orglett.5b02155
+  title: Silver-Catalyzed Decarboxylative Azidation of Aliphatic Carboxylic Acids
+  authors:
+  - Yuchao Zhu
+  - Xinyao Li
+  - Xiaoyang Wang
+  - Xiaoqiang Huang
+  - Tao Shen
+  - Yiqun Zhang
+  - Xiang Sun
+  - Miancheng Zou
+  - Song Song
+  - Ning Jiao
+  publisher: Organic Letters
+  date: '2015-09-18'
+  link: https://doi.org/g84n9m
+  orcid: 0009-0001-1795-8667
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/jacs.5b02347
+  title: "Mn-Catalyzed Highly Efficient Aerobic Oxidative Hydroxyazidation of Olefins:\
+    \ A Direct Approach to \u03B2-Azido Alcohols"
+  authors:
+  - Xiang Sun
+  - Xinyao Li
+  - Song Song
+  - Yuchao Zhu
+  - Yu-Feng Liang
+  - Ning Jiao
+  publisher: Journal of the American Chemical Society
+  date: '2015-04-28'
+  link: https://doi.org/f7dbkd
+  orcid: 0009-0001-1795-8667
+  plugin: orcid.py
+  file: orcid.yaml
 - id: 10.1021/acscatal.6b02074
   title: Silver-Catalyzed Radical Transformation of Aliphatic Carboxylic Acids to
     Oxime Ethers
