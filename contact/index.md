@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are seeking innovative and curious researchers to join our lab and collaborate on groundbreaking projects. Our initiatives include biocompatible chemistry, directed evolution, drug screening, and other cutting-edge research areas. We cordially invite researchers passionate about revolutionizing drug discovery and medical research to join us. Candidates with chemistry, biology, or computational sciences backgrounds are highly desirable. We are also open to highly motivated individuals who may not have prior research experience but demonstrate a strong drive to learn and contribute.
+We are a young lab located at CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, Beijing 100069, China). We are seeking innovative and curious researchers to join our lab and collaborate on groundbreaking projects. Our initiatives include biocompatible chemistry, directed evolution, drug screening, and other cutting-edge research areas. We cordially invite researchers passionate about revolutionizing drug discovery and medical research to explore oppotunities below. Candidates with chemistry, biology, or computational sciences backgrounds are highly desirable. We are also open to highly motivated individuals who may not have prior research experience but demonstrate a strong drive to learn and contribute.
 
 {%
   include button.html
@@ -18,12 +18,12 @@ We are seeking innovative and curious researchers to join our lab and collaborat
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(xxx) xxxx-xxxx"
+  link=
 %}
 {%
   include button.html
-  type="10 Xitoutiao, Youanmen Wai, Fengtai District, Beijing 100069, China"
+  type="adress"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
@@ -34,7 +34,7 @@ We are seeking innovative and curious researchers to join our lab and collaborat
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/RA.jpg"
   caption="Lorem ipsum"
 %}
 
@@ -44,7 +44,7 @@ We are seeking innovative and curious researchers to join our lab and collaborat
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/postdoc.jpg"
   caption="Lorem ipsum"
 %}
 
