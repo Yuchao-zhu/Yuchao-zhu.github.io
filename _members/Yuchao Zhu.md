@@ -2,10 +2,8 @@
 name: Yuchao Zhu
 image: images/Yuchao Zhu.jpg
 role: pi
-affiliation: Chinese Institutes for Medical Research (CIMR), Beijing
+affiliation: CIMR, Beijing
 aliases:
-  - J. Smith
-  - J Smith
 links:
   home-page: https://www.cimrbj.ac.cn/channel/1863460434804346880.html
   orcid: 0009-0001-1795-8667
