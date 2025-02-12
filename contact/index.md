@@ -23,7 +23,7 @@ We are seeking innovative and curious researchers to join our lab and collaborat
 %}
 {%
   include button.html
-  type="address"
+  type="10 Xitoutiao, Youanmen Wai, Fengtai District, Beijing 100069, China"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
