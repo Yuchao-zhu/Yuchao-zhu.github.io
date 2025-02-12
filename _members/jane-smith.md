@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Yuchao Zhu
+image: images/Yuchao Zhu.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: Chinese Institutes for Medical Research (CIMR), Beijing
 aliases:
   - J. Smith
   - J Smith
 links:
-  home-page: https://janesmith.com
+  home-page: https://www.cimrbj.ac.cn/channel/1863460434804346880.html
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Yuchao Zhu is an Assistant Investigator (研究员) at the Chinese Institutes for Medical Research (CIMR), Beijing. Zhu earned his B.Sc. in Pharmaceutical Sciences from Peking University. As a Graduate Research Fellow at School of Pharmaceutical Sciences of Peking University, Zhu developed efficient methods for synthesizing organic molecules and drug candidates under the guidance of Prof. Ning Jiao. After receiving his Ph.D. in 2019, he was awarded the fellowship of China National Postdoctoral Program for Innovative Talents (博新计划) and Peking University Boya Postdoctoral Fellowship (博雅博士后) and joined Prof. Peng R. Chen's lab at College of Chemistry at Peking University, where he focused on applying bioorthogonal cleavage chemistry and genetic code expansiton to manipulate protein functions in living cells. He moved to the CIMR in 2024, where his on-going research leverages the power of evolution to develop next-generation strategies for addressing global problems in chemistry, biotechnology and medicine. Zhu’s current research interests include developing biocompatibel chemistry; creating new-to-nature enzymes with directed evolution; and pioneering novel bioactive modalities to therapeutically intervene in diverse disease states.
