@@ -18,7 +18,7 @@ We are a young lab located at CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai
 {%
   include button.html
   type="phone"
-  text="(xxx) xxxx-xxxx"
+  text="(000) 0000-0000"
   link=
 %}
 {%
