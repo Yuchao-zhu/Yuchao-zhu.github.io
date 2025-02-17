@@ -14,6 +14,10 @@ We are a dynamic team of chemists and biologists united in our mission to advanc
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+Lab Alumni
+
+{% include section.html %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lab Alumni
