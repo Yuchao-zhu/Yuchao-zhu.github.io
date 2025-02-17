@@ -1,5 +1,5 @@
 ---
-name: Kun Zhou
+name: Kun Zhou (2024)
 image: images/Kun Zhou.jpg
 role: phd
 group: alum
