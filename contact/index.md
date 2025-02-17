@@ -7,21 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, Beijing 100069, China).</strong> We are seeking innovative and curious researchers to join our lab and collaborate on groundbreaking projects. Our initiatives include biocompatible chemistry, directed evolution, drug screening, and other cutting-edge research areas. We cordially invite researchers passionate about revolutionizing drug discovery and medical research to explore oppotunities below. Candidates with chemistry, biology, or computational sciences backgrounds are highly desirable. We are also open to highly motivated individuals who may not have prior research experience but demonstrate a strong drive to learn and contribute.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="yuchaozhu@cimrbj.ac.cn"
+  link="yuchaozhu@cimrbj.ac.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(000) 0000-0000"
 %}
 {%
   include button.html
@@ -36,8 +33,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/RA.jpg"
+  caption="Research Assistant"
 %}
 
 {% endcapture %}
@@ -46,8 +43,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/postdoc.jpg"
+  caption="Postdoctoral Researcher"
 %}
 
 {% endcapture %}

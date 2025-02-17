@@ -1,47 +1,25 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Biocompatible chemistry
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Biocompatible chemistry.png
+  description: Biocompatible chemistry has provided revolutionary chemical biology and biomedical research tools, including cutting-edge techniques in cell labeling, antibody modification, high-throughput sequencing, and proteomics. We plan to design and verify a series of new reactions from the perspective of reaction catalysts, initiators, ring stain, new reaction groups, and selectivity, especially reactions with higher reaction rates, milder reaction conditions, and better biocompatibility; b) Applying new reactions in peptide modification. We will apply the developed bioorthogonal reactions to peptides to achieve skeleton and PTM derivatization and evaluate modified peptides' biological activity and function changes
+  link: 
+  repo: 
   tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Directed evolution
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Evolution.png
+  link: 
+  description: Directed evolution is a powerful technique that accelerates the natural evolutionary process in vitro or in vivo through iterative cycles of genetic diversification and screening or selection. We will tirelessly pursue the development of advanced directed evolution techniques, integrating the latest advancements in high-throughput screening, continuous evolution, and computational modeling. Our goal is to create a robust and efficient platform that can rapidly identify and optimize proteins with therapeutic potential.
+  repo: 
   tags:
-    - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Drug discovery
+  subtitle: 
+  group: featured
+  image: images/Drug discovery.png
+  link: 
+  description: Building a diverse compound library and screening for high-activity molecules are crucial steps in drug development. However, traditional high-throughput screening methods are often limited by the number of compounds they can evaluate and the significant costs involved. To address these challenges, we aim to leverage advanced biotechnology and synthetic chemistry to create a robust platform for screening new drug entities. We will transform hit molecules into radiolabeled drug candidates (RDCs), protein-drug conjugates (PDCs), degraders, and other active molecules for efficacy evaluation. Promising candidates will be selected for preclinical research and further advanced through extensive collaborations to move towards clinical studies.
+  repo: 
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
