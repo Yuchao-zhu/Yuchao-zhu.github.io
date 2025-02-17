@@ -33,8 +33,8 @@ Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, 
 
 {%
   include figure.html
-  image="images/RA.jpg"
-  caption="Research Assistant"
+  image="images/CMU-1.jpg"
+  caption=""
 %}
 
 {% endcapture %}
@@ -43,8 +43,16 @@ Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, 
 
 {%
   include figure.html
-  image="images/postdoc.jpg"
-  caption="Postdoctoral Researcher"
+  image="images/CMU-2.jpg"
+  caption=""
+%}
+
+{% endcapture %}
+
+{%
+  include figure.html
+  image="images/CMU-3.jpg"
+  caption=""
 %}
 
 {% endcapture %}
