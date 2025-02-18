@@ -21,10 +21,12 @@
 }
 
 .card-image img {
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
+  height: auto;           /* 自动高度 */
+  max-height: 300px;      /* 防止过高 */
   width: 100%;
-  // box-shadow: var(--shadow);
+  object-fit: contain;    /* 完整显示图片 */
+  object-position: center;/* 居中显示 */
+  border-radius: var(--rounded) var(--rounded) 0 0; /* 保持圆角 */
 }
 
 .card-text {
