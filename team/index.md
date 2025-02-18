@@ -20,7 +20,7 @@ Lab Alumni
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-At our lab, every member is a vital part of our journey. Join us to tackle challenging problems, celebrate achievements, and make lasting contributions to science.
+Every member is a vital part of our lab. We encourage innovative and curious researchers to join us to tackle challenging problems, celebrate achievements, and make lasting contributions to science. 
 
 {% include tags.html tags="join us" link="join" %}
 
