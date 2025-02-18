@@ -8,7 +8,7 @@ We are seeking innovative and curious researchers to join our lab and collaborat
 
 {% include section.html %}
 
-Postdoctoral Associates and Research Assistants
+# {% include icon.html icon="fa-regular fa-envelope" %}Postdoctoral Associates and Research Assistants
 
 We are looking for individuals with expertise in Organic Chemistry, Chemical Biology, Medicinal  Chemistry, Molecular Biology or Biochemistry. 
 
@@ -18,13 +18,13 @@ This recruitment is valid for the long term until a suitable candidate is recrui
 
 {% include section.html %}
 
-Graduate Students
+# {% include icon.html icon="fa-regular fa-envelope" %}Graduate Students
 
 Students interested in obtaining their graduate education at the interface of chemistry and biology are highly encouraged to contact Dr. Zhu to inquire about lab rotations and the possibility of joining the group. Our group is part of the Institute for Medical Physiology at CIMR. Prospective students should apply directly to the The CIMR doctoral program.
 
 {% include section.html %}
 
-Undergraduate Students
+# {% include icon.html icon="fa-regular fa-envelope" %}Undergraduate Students
 
 Prospective undergraduate students interested in internships are encouraged to contact Dr. Zhu directly. Opportunities for summer positions are available through CIMR Education and Training site.
 
