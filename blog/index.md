@@ -5,10 +5,9 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This section serves as a dynamic way to keep the  audience informed about the latest happenings and to showcase our group's ongoing activities and achievements, including but not limited to Recent Research Achievements, Awards and Honors, Group Updates, Lab Activities, and Student Highlights.
 
 {% include section.html %}
 
