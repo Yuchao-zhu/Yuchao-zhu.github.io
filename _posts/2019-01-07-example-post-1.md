@@ -1,5 +1,5 @@
 ---
-title: Welcome our first gratitude--Kun Zhou！
+title: Welcome our first graduate student--Kun Zhou！
 author: Yuchao Zhu
 tags:
   - biology
