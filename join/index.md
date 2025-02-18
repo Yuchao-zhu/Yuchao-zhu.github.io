@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: JOIN THE TEAM
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
