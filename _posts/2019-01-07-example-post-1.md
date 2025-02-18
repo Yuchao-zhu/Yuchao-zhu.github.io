@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Welcome our first gratitude--Kun Zhou！
+author: Yuchao Zhu
 tags:
   - biology
   - medicine
   - big data
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our first PhD student, Kun Zhou has joined the team. He will work on developing biocompatible reactions and harnessing these reactions for drug discovery.
