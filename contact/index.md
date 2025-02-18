@@ -49,6 +49,8 @@ Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, 
 
 {% endcapture %}
 
+{% capture col3 %}
+
 {%
   include figure.html
   image="images/CMU-3.jpg"
@@ -57,7 +59,7 @@ Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, 
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
