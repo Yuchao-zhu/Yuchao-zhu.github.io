@@ -1,31 +1,10 @@
 ---
 title: Contact
-nav:
-  order: 5
-  tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Located at <strong>CIMR, Beijing (10 Xitoutiao, Youanmen Wai, Fengtai District, Beijing 100069, China).</strong> 
-
-{%
-  include button.html
-  type="email"
-  text="yuchaozhu@cimrbj.ac.cn"
-  link="yuchaozhu@cimrbj.ac.cn"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(000) 0000-0000"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+You can learn a bit about working in the lab by reading our onboarding document. Positions across our Department of Biomedical Informatics, including in our lab, for staff and postdocs are usually listed on the employment section of the DBMI website
 
 {% include section.html %}
 
