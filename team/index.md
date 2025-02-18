@@ -20,7 +20,7 @@ Lab Alumni
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are seeking innovative and curious researchers to join our lab and collaborate on groundbreaking projects. Our initiatives include biocompatible chemistry, directed evolution, drug screening, and other cutting-edge research areas. We cordially invite researchers passionate about revolutionizing drug discovery and medical research to explore oppotunities below. Candidates with chemistry, biology, or computational sciences backgrounds are highly desirable. We are also open to highly motivated individuals who may not have prior research experience but demonstrate a strong drive to learn and contribute.
+At our lab, every member is a vital part of our journey. Join us to tackle challenging problems, celebrate achievements, and make lasting contributions to science.
 
 {% include tags.html tags="join us" link="join" %}
 
