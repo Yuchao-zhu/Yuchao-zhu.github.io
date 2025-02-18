@@ -2,7 +2,7 @@
 title: JOIN THE TEAM
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}JOIN THE TEAM
 
 You can learn a bit about working in the lab by reading our onboarding document. Positions across our Department of Biomedical Informatics, including in our lab, for staff and postdocs are usually listed on the employment section of the DBMI website
 
