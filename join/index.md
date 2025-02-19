@@ -1,5 +1,5 @@
 ---
-title: Join the team
+title: Join Us
 nav:
   order: 5
   tooltip: Join the team
