@@ -1,10 +1,10 @@
 ---
-name: Kun Zhou (2024)
-image: images/Kun Zhou.jpg
-role: phd
+name: Haitian Xu
+image: images/Haitian Xu.jpg
+role: Research Assistant
 group: alum
 links:
  
 ---
 
-Kun is a PhD student at the Zhu Lab, specializing in chemical biology with a focus on the development of biocompatible reactions and targeted protein degradation. He received his master's training in medicinal chemistry at the Institute of Microbiology, Chinese Academy of Sciences, where he gained expertise in the synthesis of antiviral active molecules. Currently, his research is centered on developing new bioorthogonal reactions and exploring novel applications in biology.
+Haitian serves as the Research Assistant at the Zhu Lab, specializing in molecular biology. She obtained a master's degree in pharmacy from Yantai University, where she acquired expertise in the development of anti-tumor drugs. Currently, she is applying the acquired knowledge to the development of novel methodologies in drug discovery.
