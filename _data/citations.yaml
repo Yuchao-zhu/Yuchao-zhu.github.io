@@ -24,7 +24,6 @@
   orcid: 0009-0001-1795-8667
   plugin: orcid.py
   file: orcid.yaml
-  image: images/Jiangle.png
 - id: doi:10.1038/s41586-025-09165-x
   title: RNA codon expansion via programmable pseudouridine editing and decoding
   authors:
@@ -48,7 +47,6 @@
   orcid: 0009-0001-1795-8667
   plugin: orcid.py
   file: orcid.yaml
-  image: images/Jiangle.png
 - id: doi:10.1002/cjoc.202400876
   title: "Bioorthogonal Cleavage Chemistry: Harnessing the Bond\u2010Break Reactions\
     \ for Biomolecule Manipulations in Living Systems"
