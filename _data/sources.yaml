@@ -32,7 +32,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
 
 - id: doi:10.1038/s41557-018-0156-y
-  image: https://onlinelibrary.wiley.com/cms/asset/7e56f225-4ddb-4f11-a629-b2895b4425d2/anie201900947-toc-0001-m.jpg
+  image: images/Jianzhong.jpg
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
@@ -47,5 +47,5 @@
   image: images/Azidation.png
   
 - id: doi:10.1021/jacs.5b02347
-  image: https://pubs.acs.org/cms/10.1021/jacs.5b02347/asset/images/medium/ja-2015-02347p_0009.gif
+  image: images/Sunxiang.png
   
