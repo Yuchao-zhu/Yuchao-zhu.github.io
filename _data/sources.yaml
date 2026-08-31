@@ -86,6 +86,19 @@
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
+  authors:
+    - Jianzhong Liu
+    - Xu Qiu
+    - Xiaoqiang Huang
+    - Xiao Luo
+    - Cheng Zhang
+    - Jialiang Wei
+    - Jun Pan
+    - Yujie Liang
+    - "**Yuchao Zhu**"
+    - Qixue Qin
+    - Song Song
+    - "Ning Jiao *"
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
