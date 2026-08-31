@@ -63,6 +63,14 @@
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
+  authors:
+    - "**Yuchao Zhu**"
+    - Feng Lin
+    - Ziqi Liu
+    - Xin Wang
+    - Shubing Wang
+    - "Xinyuan Fan *"
+    - "Peng R. Chen *"
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
