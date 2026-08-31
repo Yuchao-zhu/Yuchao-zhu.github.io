@@ -24,7 +24,6 @@
   orcid: 0009-0001-1795-8667
   plugin: orcid.py
   file: orcid.yaml
-  image: images/RCE.png
 - id: doi:10.1038/s41586-025-09165-x
   title: RNA codon expansion via programmable pseudouridine editing and decoding
   authors:
