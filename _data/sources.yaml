@@ -24,9 +24,11 @@
     - "Xinyuan Fan *"
     - "Shixian Lin *"
     - "Peng R. Chen *"
+  publisher: "**Nature Chemistry**"
 
 - id:  doi:10.1038/s41586-025-09464-3
   image: images/RCE.png
+  publisher: "**Nature**"
   authors:
     - "Jiangle Liu #"
     - "Xueqing Yan #"
@@ -45,6 +47,7 @@
 
 - id:  doi:10.1038/s41586-025-09165-x
   image: images/RCE.png
+  publisher: "**Nature**"
   authors:
     - "Jiangle Liu #"
     - "Xueqing Yan #"
@@ -63,6 +66,7 @@
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
+  publisher: "**Chinese Journal of Chemistry**"
   authors:
     - "**Yuchao Zhu**"
     - Feng Lin
@@ -74,6 +78,7 @@
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
+  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - "**Yuchao Zhu**"
     - Ziyao Zhang
@@ -85,6 +90,7 @@
 
 - id: doi:10.1038/s41929-019-0398-0
   image: images/DMSO.png
+  publisher: "**Nature Catalysis**"
   authors:
     - Song Song
     - Xinyao Li
@@ -99,6 +105,7 @@
 
 - id: doi:10.1002/anie.201903690
   image: images/Bencong.png
+  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - Bencong Zhu
     - Tao Shen
@@ -109,6 +116,7 @@
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
+  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - Qixue Qin
     - Xiao Luo
@@ -120,6 +128,7 @@
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
+  publisher: "**Nature Chemistry**"
   authors:
     - Jianzhong Liu
     - Xu Qiu
@@ -136,6 +145,7 @@
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
+  publisher: "**Nature Communications**"
   authors:
     - "**Yuchao Zhu**"
     - Kaimeng Huang
@@ -150,6 +160,7 @@
 
 - id: doi:10.1002/chem.201605476
   image: images/CEJ.png
+  publisher: "**Chemistry – A European Journal**"
   authors:
     - Jianzhong Liu
     - Kai Wu
@@ -163,6 +174,7 @@
 
 - id: doi:10.1021/acscatal.6b02074
   image: images/Oxime.png
+  publisher: "**ACS Catalysis**"
   authors:
     - "**Yuchao Zhu**"
     - Xiaojin Wen
@@ -171,6 +183,7 @@
 
 - id: doi:10.1021/acs.orglett.5b02155
   image: images/Azidation.png
+  publisher: "**Organic Letters**"
   authors:
     - "**Yuchao Zhu**"
     - Xinyao Li
@@ -185,6 +198,7 @@
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
+  publisher: "**Journal Of The American Chemical Society**"
    authors:
     - Xiang Sun
     - Xinyao Li
