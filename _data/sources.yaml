@@ -80,6 +80,13 @@
 
 - id: doi:10.1002/anie.201903690
   image: images/Bencong.png
+  authors:
+    - Bencong Zhu
+    - Tao Shen
+    - Xiaoqiang Huang
+    - "**Yuchao Zhu**"
+    - Song Song
+    - "Ning Jiao *"
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
