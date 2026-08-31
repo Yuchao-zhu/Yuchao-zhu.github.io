@@ -89,6 +89,17 @@
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
+  authors:
+    - "**Yuchao Zhu**"
+    - Kaimeng Huang
+    - Jun Pan
+    - Xu Qiu
+    - Xiao Luo
+    - Qixue Qin
+    - Jialiang Wei
+    - Xiaojin Wen
+    - Lizhi Zhang
+    - "Ning Jiao *"
 
 - id: doi:10.1002/chem.201605476
   image: images/CEJ.png
