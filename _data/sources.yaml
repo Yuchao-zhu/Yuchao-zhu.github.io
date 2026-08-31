@@ -28,7 +28,6 @@
 
 - id:  doi:10.1038/s41586-025-09464-3
   image: images/RCE.png
-  publisher: "**Nature**"
   authors:
     - "Jiangle Liu #"
     - "Xueqing Yan #"
@@ -44,10 +43,10 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
+  publisher: "**Nature**"
 
 - id:  doi:10.1038/s41586-025-09165-x
   image: images/RCE.png
-  publisher: "**Nature**"
   authors:
     - "Jiangle Liu #"
     - "Xueqing Yan #"
@@ -63,10 +62,10 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
+  publisher: "**Nature**"
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
-  publisher: "**Chinese Journal of Chemistry**"
   authors:
     - "**Yuchao Zhu**"
     - Feng Lin
@@ -75,10 +74,10 @@
     - Shubing Wang
     - "Xinyuan Fan *"
     - "Peng R. Chen *"
+  publisher: "**Chinese Journal of Chemistry**"
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
-  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - "**Yuchao Zhu**"
     - Ziyao Zhang
@@ -87,10 +86,10 @@
     - Guoquan Liu
     - Bing Han
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**"
 
 - id: doi:10.1038/s41929-019-0398-0
   image: images/DMSO.png
-  publisher: "**Nature Catalysis**"
   authors:
     - Song Song
     - Xinyao Li
@@ -102,10 +101,10 @@
     - Xiaomeng Shi
     - Xiaohui Zhang
     - "Ning Jiao *"
+  publisher: "**Nature Catalysis**"
 
 - id: doi:10.1002/anie.201903690
   image: images/Bencong.png
-  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - Bencong Zhu
     - Tao Shen
@@ -113,10 +112,10 @@
     - "**Yuchao Zhu**"
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**"
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
-  publisher: "**Angewandte Chemie International Edition**"
   authors:
     - Qixue Qin
     - Xiao Luo
@@ -125,10 +124,10 @@
     - Xiaojin Wen
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**"
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
-  publisher: "**Nature Chemistry**"
   authors:
     - Jianzhong Liu
     - Xu Qiu
@@ -142,10 +141,10 @@
     - Qixue Qin
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Nature Chemistry**"
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
-  publisher: "**Nature Communications**"
   authors:
     - "**Yuchao Zhu**"
     - Kaimeng Huang
@@ -157,10 +156,10 @@
     - Xiaojin Wen
     - Lizhi Zhang
     - "Ning Jiao *"
+  publisher: "**Nature Communications**"
 
 - id: doi:10.1002/chem.201605476
   image: images/CEJ.png
-  publisher: "**Chemistry – A European Journal**"
   authors:
     - Jianzhong Liu
     - Kai Wu
@@ -171,19 +170,19 @@
     - Xinwei Li
     - Xinyao Li
     - "Ning Jiao *"
+  publisher: "**Chemistry – A European Journal**"
 
 - id: doi:10.1021/acscatal.6b02074
   image: images/Oxime.png
-  publisher: "**ACS Catalysis**"
   authors:
     - "**Yuchao Zhu**"
     - Xiaojin Wen
     - "Song Song *"
     - "Ning Jiao *"
+  publisher: "**ACS Catalysis**"
 
 - id: doi:10.1021/acs.orglett.5b02155
   image: images/Azidation.png
-  publisher: "**Organic Letters**"
   authors:
     - "**Yuchao Zhu**"
     - Xinyao Li
@@ -195,10 +194,10 @@
     - Miancheng Zou
     - "Song Song *"
     - "Ning Jiao *"
+  publisher: "**Organic Letters**"
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
-  publisher: "**Journal Of The American Chemical Society**"
    authors:
     - Xiang Sun
     - Xinyao Li
@@ -206,3 +205,4 @@
     - "**Yuchao Zhu**"
     - Yu-Feng Liang
     - "Ning Jiao *"
+  publisher: "**Journal Of The American Chemical Society**"
