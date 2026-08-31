@@ -79,7 +79,7 @@ We are a team of enthusiastic researchers that want to push the frontier of chem
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/team.jpg"
   link="team"
   title="The next generation of medical scientists"
   text=text
