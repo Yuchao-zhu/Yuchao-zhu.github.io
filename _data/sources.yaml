@@ -98,6 +98,17 @@
 
 - id: doi:10.1021/acs.orglett.5b02155
   image: images/Azidation.png
+  authors:
+    - "**Yuchao Zhu**"
+    - Xinyao Li
+    - Xiaoyang Wang
+    - Xiaoqiang Huang
+    - Tao Shen
+    - Yiqun Zhang
+    - Xiang Sun
+    - Miancheng Zou
+    - "Song Song *"
+    - "Ning Jiao *"
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
