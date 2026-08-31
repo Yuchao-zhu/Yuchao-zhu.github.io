@@ -16,6 +16,9 @@
     - collaboration
   repo: greenelab/meta-review
 
+- id:  doi:10.1038/s41586-025-09165-x
+  image: images/Jiangle.png
+
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
 
