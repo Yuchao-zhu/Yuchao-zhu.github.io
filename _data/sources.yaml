@@ -15,12 +15,12 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-   authors:
-  - **Yuchao Zhu** #
-  - Wenlong Ding #
-  - Xinyuan Fan *
-  - Shixian Lin *
-  - Peng R. Chen *
+  authors:
+  - "**Yuchao Zhu** #"
+  - "Wenlong Ding #"
+  - "Xinyuan Fan *"
+  - "Shixian Lin *"
+  - "Peng R. Chen *"
 
 - id:  doi:10.1038/s41586-025-09464-3
   image: images/RCE.png
