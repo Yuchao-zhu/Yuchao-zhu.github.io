@@ -70,14 +70,11 @@
 - id: doi:10.1038/s41557-024-01463-7
   title: Genetically encoded bioorthogonal tryptophan decaging in living cells
   authors:
-  - Yuchao Zhu
-  - Wenlong Ding
-  - Yulin Chen
-  - Ye Shan
-  - Chao Liu
-  - Xinyuan Fan
-  - Shixian Lin
-  - Peng R. Chen
+  - '**Yuchao Zhu** #'
+  - 'Wenlong Ding #'
+  - Xinyuan Fan *
+  - Shixian Lin *
+  - Peng R. Chen *
   publisher: Nature Chemistry
   date: '2024-02-28'
   link: https://doi.org/g84kh9
