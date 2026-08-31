@@ -74,6 +74,14 @@
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
+  authors:
+    - "**Yuchao Zhu**"
+    - Ziyao Zhang
+    - Rui Jin
+    - Jianzhong Liu
+    - Guoquan Liu
+    - Bing Han
+    - "Ning Jiao *"
 
 - id: doi:10.1038/s41929-019-0398-0
   image: images/DMSO.png
