@@ -1,29 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41586-025-09464-3
-  title: 'Author Correction: RNA codon expansion via programmable pseudouridine editing
-    and decoding'
-  authors:
-  - Jiangle Liu
-  - Xueqing Yan
-  - Hao Wu
-  - Ziqin Ji
-  - Ye Shan
-  - Xinyan Wang
-  - Yunfan Ran
-  - Yichen Ma
-  - Caitao Li
-  - Yuchao Zhu
-  - Ruichu Gu
-  - Han Wen
-  - Chengqi Yi
-  - Peng R. Chen
-  publisher: Nature
-  date: '2025-08-11'
-  link: https://doi.org/g9wzpd
-  orcid: 0009-0001-1795-8667
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41586-025-09165-x
   title: RNA codon expansion via programmable pseudouridine editing and decoding
   authors:
