@@ -92,6 +92,16 @@
 
 - id: doi:10.1002/chem.201605476
   image: images/CEJ.png
+  authors:
+    - Jianzhong Liu
+    - Kai Wu
+    - Tao Shen
+    - Yujie Liang
+    - Miancheng Zou
+    - "**Yuchao Zhu**"
+    - Xinwei Li
+    - Xinyao Li
+    - "Ning Jiao *"
 
 - id: doi:10.1021/acscatal.6b02074
   image: images/Oxime.png
