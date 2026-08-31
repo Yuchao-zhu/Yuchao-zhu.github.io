@@ -83,6 +83,14 @@
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
+  authors:
+    - Qixue Qin
+    - Xiao Luo
+    - Jialiang Wei
+    - "**Yuchao Zhu**"
+    - Xiaojin Wen
+    - Song Song
+    - "Ning Jiao *"
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
