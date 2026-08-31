@@ -101,4 +101,10 @@
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
-  
+   authors:
+    - Xiang Sun
+    - Xinyao Li
+    - Song Song
+    - "**Yuchao Zhu**"
+    - Yu-Feng Liang
+    - "Ning Jiao *"
