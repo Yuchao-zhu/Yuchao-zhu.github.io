@@ -45,6 +45,21 @@
 
 - id:  doi:10.1038/s41586-025-09165-x
   image: images/RCE.png
+  authors:
+    - "Jiangle Liu #"
+    - "Xueqing Yan #"
+    - "Hao Wu #"
+    - Ziqin Ji
+    - Ye Shan
+    - Xinyan Wang
+    - Yunfan Ran
+    - Yichen Ma
+    - Caitao Li
+    - "**Yuchao Zhu**"
+    - Ruichu Gu
+    - Han Wen
+    - "Chengqi Yi *"
+    - "Peng R. Chen *"
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
