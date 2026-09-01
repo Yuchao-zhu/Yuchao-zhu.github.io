@@ -74,6 +74,7 @@
     - Shubing Wang
     - "Xinyuan Fan *"
     - "Peng R. Chen *"
+  publisher: "**Chinese Journal of Chemistry**" 
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
@@ -85,6 +86,7 @@
     - Guoquan Liu
     - Bing Han
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1038/s41929-019-0398-0
   image: images/DMSO.png
@@ -99,6 +101,7 @@
     - Xiaomeng Shi
     - Xiaohui Zhang
     - "Ning Jiao *"
+  publisher: "**Nature Catalysis**" 
 
 - id: doi:10.1002/anie.201903690
   image: images/Bencong.png
@@ -109,6 +112,7 @@
     - "**Yuchao Zhu**"
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
@@ -120,6 +124,7 @@
     - Xiaojin Wen
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
@@ -136,6 +141,7 @@
     - Qixue Qin
     - Song Song
     - "Ning Jiao *"
+  publisher: "**Nature Chemistry**"
 
 - id: doi:10.1038/s41467-018-05014-w
   image: images/Mono-ol.png
@@ -150,6 +156,7 @@
     - Xiaojin Wen
     - Lizhi Zhang
     - "Ning Jiao *"
+  publisher: "**Nature Communications**"
 
 - id: doi:10.1002/chem.201605476
   image: images/CEJ.png
@@ -163,6 +170,7 @@
     - Xinwei Li
     - Xinyao Li
     - "Ning Jiao *"
+  publisher: "**Chemistry – A European Journal**"
 
 - id: doi:10.1021/acscatal.6b02074
   image: images/Oxime.png
@@ -171,6 +179,7 @@
     - Xiaojin Wen
     - "Song Song *"
     - "Ning Jiao *"
+  publisher: "**ACS Catalysis**"
 
 - id: doi:10.1021/acs.orglett.5b02155
   image: images/Azidation.png
@@ -185,6 +194,7 @@
     - Miancheng Zou
     - "Song Song *"
     - "Ning Jiao *"
+  publisher: "**Organic Letters**"
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
@@ -195,3 +205,4 @@
     - "**Yuchao Zhu**"
     - Yu-Feng Liang
     - "Ning Jiao *"
+   publisher: "**Journal of the American Chemical Society**"
