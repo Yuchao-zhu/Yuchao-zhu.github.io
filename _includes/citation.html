@@ -61,7 +61,7 @@
 
       <div class="citation-details">
         <span class="citation-publisher">
-          {{- citation.publisher | default: "[no publisher info]" -}}
+          {{- citation.publisher | default: "[no publisher info]" | markdownify | remove: "<p>" | remove: "</p>"-}}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
