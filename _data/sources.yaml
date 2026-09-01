@@ -43,6 +43,7 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
+  publisher: "**Nature**" 
 
 - id: doi:10.1038/s41586-025-09165-x
   image: images/RCE.png
@@ -61,6 +62,7 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
+  publisher: "**Nature**" 
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
