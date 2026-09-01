@@ -104,13 +104,13 @@
   title: "DMSO\u2010Enabled Selective Radical O\u2212H Activation of 1,3(4)\u2010\
     Diols"
   authors:
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Ziyao Zhang
   - Rui Jin
   - Jianzhong Liu
   - Guoquan Liu
   - Bing Han
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Angewandte Chemie International Edition
   date: '2020-09-01'
   link: https://doi.org/gnmn9s
@@ -127,10 +127,10 @@
   - Weijin Wang
   - Yiqun Zhang
   - Lingsheng Ai
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Xiaomeng Shi
   - Xiaohui Zhang
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Nature Catalysis
   date: '2019-12-23'
   link: https://doi.org/gptxtx
@@ -145,9 +145,9 @@
   - Bencong Zhu
   - Tao Shen
   - Xiaoqiang Huang
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Song Song
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Angewandte Chemie International Edition
   date: '2019-06-28'
   link: https://doi.org/g84n9d
@@ -161,10 +161,10 @@
   - Qixue Qin
   - Xiao Luo
   - Jialiang Wei
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Xiaojin Wen
   - Song Song
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Angewandte Chemie International Edition
   date: '2019-02-18'
   link: https://doi.org/gfvzbk
@@ -183,10 +183,10 @@
   - Jialiang Wei
   - Jun Pan
   - Yujie Liang
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Qixue Qin
   - Song Song
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Nature Chemistry
   date: '2018-10-29'
   link: https://doi.org/g84n9g
@@ -197,7 +197,7 @@
 - id: doi:10.1038/s41467-018-05014-w
   title: Silver-catalyzed remote Csp3-H functionalization of aliphatic alcohols
   authors:
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Kaimeng Huang
   - Jun Pan
   - Xu Qiu
@@ -206,7 +206,7 @@
   - Jialiang Wei
   - Xiaojin Wen
   - Lizhi Zhang
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Nature Communications
   date: '2018-07-06'
   link: https://doi.org/g84n9h
@@ -223,10 +223,10 @@
   - Tao Shen
   - Yujie Liang
   - Miancheng Zou
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Xinwei Li
   - Xinyao Li
-  - Ning Jiao
+  - Ning Jiao *
   publisher: "Chemistry \u2013 A European Journal"
   date: '2016-12-16'
   link: https://doi.org/f3tgbq
@@ -238,10 +238,10 @@
   title: Silver-Catalyzed Radical Transformation of Aliphatic Carboxylic Acids to
     Oxime Ethers
   authors:
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Xiaojin Wen
-  - Song Song
-  - Ning Jiao
+  - Song Song *
+  - Ning Jiao *
   publisher: ACS Catalysis
   date: '2016-08-31'
   link: https://doi.org/g84n9k
@@ -252,7 +252,7 @@
 - id: doi:10.1021/acs.orglett.5b02155
   title: Silver-Catalyzed Decarboxylative Azidation of Aliphatic Carboxylic Acids
   authors:
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Xinyao Li
   - Xiaoyang Wang
   - Xiaoqiang Huang
@@ -260,8 +260,8 @@
   - Yiqun Zhang
   - Xiang Sun
   - Miancheng Zou
-  - Song Song
-  - Ning Jiao
+  - Song Song *
+  - Ning Jiao *
   publisher: Organic Letters
   date: '2015-09-18'
   link: https://doi.org/g84n9m
@@ -276,9 +276,9 @@
   - Xiang Sun
   - Xinyao Li
   - Song Song
-  - Yuchao Zhu
+  - '**Yuchao Zhu**'
   - Yu-Feng Liang
-  - Ning Jiao
+  - Ning Jiao *
   publisher: Journal of the American Chemical Society
   date: '2015-04-28'
   link: https://doi.org/f7dbkd
