@@ -1,7 +1,7 @@
 ---
 name: Shanshan Jiang (2026)
 image: images/Shanshan Jiang.jpg
-role: RA
+role: assistant
 group: alum
 links:
  
