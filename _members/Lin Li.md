@@ -1,7 +1,7 @@
 ---
 name: Lin Li (2025)
 image: images/Lin Li.jpg
-role: RA
+role: assistant
 group: alum
 links:
  
