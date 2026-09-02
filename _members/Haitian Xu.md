@@ -1,5 +1,5 @@
 ---
-name: Haitian Xu
+name: Haitian Xu (2025)
 image: images/Haitian Xu.jpg
 role: Research Assistant
 group: alum
