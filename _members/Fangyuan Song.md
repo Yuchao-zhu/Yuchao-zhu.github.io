@@ -1,10 +1,10 @@
 ---
 name: Fangyuan Song (2025)
-image: images/Kun Zhou.jpg
+image: images/Fangyuan Song.jpg
 role: phd
 group: alum
 links:
  
 ---
 
-Kun is a PhD student at the Zhu Lab, specializing in chemical biology with a focus on the development of biocompatible reactions and targeted protein degradation. He received his master's training in medicinal chemistry at the Institute of Microbiology, Chinese Academy of Sciences, where he gained expertise in the synthesis of antiviral active molecules. Currently, his research is centered on developing new bioorthogonal reactions and exploring novel applications in biology.
+Fangyuan is a PhD student at the Zhu Lab, specializing in molecular biology with a focus on the small-molecule-based regulation of genetic processes. She received her master's training in Biotechnology and Engineering at Jiangsu University, where she worked on the development of detection methods for trace-level proteins. Currently, her research is centered on modulating protein functions using small-molecule tools and exploring their potential for therapeutic applications.
