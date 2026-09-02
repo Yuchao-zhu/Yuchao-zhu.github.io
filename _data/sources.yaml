@@ -24,7 +24,7 @@
     - "Xinyuan Fan *"
     - "Shixian Lin *"
     - "Peng R. Chen *"
-  publisher: "**Nature Chemistry**"
+  publisher: "**Nature Chemistry**" 
 
 - id: doi:10.1038/s41586-025-09464-3
   image: images/RCE.png
@@ -43,7 +43,7 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
-  publisher: "**Nature**"
+  publisher: "**Nature**" 
 
 - id: doi:10.1038/s41586-025-09165-x
   image: images/RCE.png
@@ -62,7 +62,7 @@
     - Han Wen
     - "Chengqi Yi *"
     - "Peng R. Chen *"
-  publisher: "**Nature**"
+  publisher: "**Nature**" 
 
 - id: doi:10.1002/cjoc.202400876
   image: images/BCR.png
@@ -74,7 +74,7 @@
     - Shubing Wang
     - "Xinyuan Fan *"
     - "Peng R. Chen *"
-  publisher: "**Chinese Journal of Chemistry**"
+  publisher: "**Chinese Journal of Chemistry**" 
 
 - id: doi:10.1002/anie.202007187
   image: images/Diol.png
@@ -86,7 +86,7 @@
     - Guoquan Liu
     - Bing Han
     - "Ning Jiao *"
-  publisher: "**Angewandte Chemie International Edition**"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1038/s41929-019-0398-0
   image: images/DMSO.png
@@ -101,7 +101,7 @@
     - Xiaomeng Shi
     - Xiaohui Zhang
     - "Ning Jiao *"
-  publisher: "**Nature Catalysis**"
+  publisher: "**Nature Catalysis**" 
 
 - id: doi:10.1002/anie.201903690
   image: images/Bencong.png
@@ -112,7 +112,7 @@
     - "**Yuchao Zhu**"
     - Song Song
     - "Ning Jiao *"
-  publisher: "**Angewandte Chemie International Edition**"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1002/anie.201900947
   image: images/Qixue.png
@@ -124,7 +124,7 @@
     - Xiaojin Wen
     - Song Song
     - "Ning Jiao *"
-  publisher: "**Angewandte Chemie International Edition**"
+  publisher: "**Angewandte Chemie International Edition**" 
 
 - id: doi:10.1038/s41557-018-0156-y
   image: images/Jianzhong.png
@@ -198,11 +198,11 @@
   
 - id: doi:10.1021/jacs.5b02347
   image: images/Sunxiang.png
-   authors:
+  authors:
     - Xiang Sun
     - Xinyao Li
     - Song Song
     - "**Yuchao Zhu**"
     - Yu-Feng Liang
     - "Ning Jiao *"
-  publisher: "**Journal Of The American Chemical Society**"
+  publisher: "**Journal of the American Chemical Society**"
