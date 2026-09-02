@@ -1,7 +1,7 @@
 ---
 name: Yuwei Han (2025)
 image: images/Yuwei Han.jpg
-role: Lab manager
+role: manager
 group: alum
 links:
  
