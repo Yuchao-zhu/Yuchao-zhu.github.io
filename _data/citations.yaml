@@ -20,11 +20,10 @@
   file: sources.yaml
   type: paper
   description: "Chemically manipulating phenylalanine\u2019s purely hydrocarbon side\
-    \ chain in living systems is challenging. Now this has been achieved through biocompatible,\
-    \ palladium-triggered decaging of iodine-caged phenylalanine. This enables on-demand\
-    \ control of live-cell hydrophobic interactions as well as \u03C0 interactions,\
-    \ which spans from fluorophore activation and peptide disassembly to protein binding\
-    \ and tumour\u2013immune cell recognition."
+    \ chain in living systems is achieved. This enables on-demand control of live-cell\
+    \ hydrophobic interactions as well as \u03C0 interactions, which spans from fluorophore\
+    \ activation and peptide disassembly to protein binding and tumour\u2013immune\
+    \ cell recognition."
   image: images/Phe.png
   tags:
   - Phe decaging
