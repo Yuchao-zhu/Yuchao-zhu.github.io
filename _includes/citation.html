@@ -100,8 +100,8 @@
           </div>
         {% endif %}
 
-        {% if citation.tags.size > 0 or citation.repo %}
-          {% include tags.html tags=citation.tags repo=citation.repo %}
+        {% if citation.tags.size > 0 %}
+          {% include tags.html tags=citation.tags %}
         {% endif %}
       {% endif %}
     </div>
