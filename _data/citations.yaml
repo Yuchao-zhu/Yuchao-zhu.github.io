@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41557-026-02226-2
+  title: Palladium-triggered bioorthogonal phenylalanine decaging
+  authors:
+  - Yuchao Zhu
+  - Shibo Liu
+  - Shan Qin
+  - Xin Wang
+  - Yuan Liu
+  - Xianrui Zhang
+  - Ye Shan
+  - Xinyuan Fan
+  - Peng R. Chen
+  publisher: Nature Chemistry
+  date: '2026-09-02'
+  link: https://doi.org/hchjpw
+  orcid: 0009-0001-1795-8667
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-025-09464-3
   title: 'Author Correction: RNA codon expansion via programmable pseudouridine editing
     and decoding'
