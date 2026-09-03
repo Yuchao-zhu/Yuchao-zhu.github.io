@@ -13,6 +13,7 @@ Our research bridges the realms of chemistry and biology. By employing multidisc
 
 ## Highlighted
 
+{% include citation.html lookup="Palladium-triggered bioorthogonal phenylalanine decaging" style="rich" %}
 {% include citation.html lookup="Genetically encoded bioorthogonal tryptophan decaging in living cells" style="rich" %}
 
 {% include section.html %}
