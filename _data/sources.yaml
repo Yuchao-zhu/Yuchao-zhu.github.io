@@ -3,17 +3,10 @@
   description: Genetically encoded bioorthogonal tryptophan decaging enables ondemand activation of over 20000 proteins in living cells.
   date: 2024-2-28
   image: images/Trp-CAGE.png
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
+    - Trp
+    - Protein chemistry
+    - Living cells
   repo: greenelab/meta-review
   authors:
     - "**Yuchao Zhu** #"
@@ -23,6 +16,29 @@
     - Chao Liu
     - "Xinyuan Fan *"
     - "Shixian Lin *"
+    - "Peng R. Chen *"
+  publisher: "**Nature Chemistry**" 
+
+- id: doi:10.1038/s41557-026-02226-2
+  type: paper
+  description: Chemically manipulating phenylalanine’s purely hydrocarbon side chain in living systems is challenging. Now this has been achieved through biocompatible, palladium-triggered decaging of iodine-caged phenylalanine. This enables on-demand control of live-cell hydrophobic interactions as well as π interactions, which spans from fluorophore activation and peptide disassembly to protein binding and tumour–immune cell recognition.
+  date: 2026-9-2
+  image: images/Phe.png
+  tags:
+    - Phe decaging
+    - Bioorthogonal chemistry
+    - Living cells
+    - Immune state reprogramming
+  repo: greenelab/meta-review
+  authors:
+    - "**Yuchao Zhu** #"
+    - "Shibo Liu #"
+    - "Shan Qin #"
+    - Xin Wang
+    - Yuan Liu
+    - Xianrui Zhang
+    - Ye Shan
+    - "Xinyuan Fan *"
     - "Peng R. Chen *"
   publisher: "**Nature Chemistry**" 
 
