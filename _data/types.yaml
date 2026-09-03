@@ -23,7 +23,7 @@ manager:
   description: Lab Manager
 
 assistant:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-user-gear
   description: Research Assistant
 
 # general
