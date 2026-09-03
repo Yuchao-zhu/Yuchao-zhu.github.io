@@ -21,7 +21,7 @@
 
 - id: doi:10.1038/s41557-026-02226-2
   type: paper
-  description: Chemically manipulating phenylalanine’s purely hydrocarbon side chain in living systems is challenging. Now this has been achieved through biocompatible, palladium-triggered decaging of iodine-caged phenylalanine. This enables on-demand control of live-cell hydrophobic interactions as well as π interactions, which spans from fluorophore activation and peptide disassembly to protein binding and tumour–immune cell recognition.
+  description: Chemically manipulating phenylalanine’s purely hydrocarbon side chain in living systems is achieved. This enables on-demand control of live-cell hydrophobic interactions as well as π interactions, which spans from fluorophore activation and peptide disassembly to protein binding and tumour–immune cell recognition.
   date: 2026-9-2
   image: images/Phe.png
   tags:
