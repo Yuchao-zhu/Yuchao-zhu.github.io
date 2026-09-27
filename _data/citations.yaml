@@ -310,3 +310,14 @@
   plugin: sources.py
   file: sources.yaml
   image: images/Sunxiang.png
+- id: doi:10.1038/s41557-026-02277-5
+  title: Unmasking phenylalanine interactions through bioorthogonal decaging
+  authors:
+  - '**Yuchao Zhu**'
+  - Peng R. Chen *
+  publisher: '**Nature Chemistry**'
+  date: '2026-09-25'
+  link: https://doi.org/hckqhb
+  image: images/Phe interactions.png
+  plugin: sources.py
+  file: sources.yaml
