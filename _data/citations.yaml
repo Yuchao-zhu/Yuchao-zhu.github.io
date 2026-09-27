@@ -318,6 +318,9 @@
   publisher: '**Nature Chemistry**'
   date: '2026-09-25'
   link: https://doi.org/hckqhb
+  description: "\"This is an excellent paper that presents a novel biorthogonal caging\u2013\
+    decaging reaction of phenylalanine (Phe).\" by Matthew Hartman, Virginia Commonwealth\
+    \ University, USA."
   image: images/Phe interactions.png
   plugin: sources.py
   file: sources.yaml
