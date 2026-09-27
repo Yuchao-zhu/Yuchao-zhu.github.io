@@ -43,7 +43,7 @@
   publisher: "**Nature Chemistry**" 
 
 - id: doi:10.1038/s41557-026-02277-5
-  description:"This is an excellent paper that presents a novel biorthogonal caging–decaging reaction of phenylalanine (Phe)." by Matthew Hartman, Virginia Commonwealth University, USA.
+  description: "This is an excellent paper that presents a novel biorthogonal caging–decaging reaction of phenylalanine (Phe)." by Matthew Hartman, Virginia Commonwealth University, USA.
   image: images/Phe interactions.png
   authors:
     - "**Yuchao Zhu** *"
